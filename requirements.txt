@@ -1,0 +1,6 @@
+pandas
+dash
+boto3
+requests
+python-dotenv
+yfinance
