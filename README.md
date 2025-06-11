@@ -16,3 +16,5 @@ ECHIOS_KEY=
     - Api key to be created
   - https://tech.echios.com/
     - Ask trainer for api key
+
+- Original repo https://github.com/ckechios/aws-dash-full-25
