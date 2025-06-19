@@ -6,8 +6,8 @@ Create a .env file. Do not publish they .env or these keys
 
 ```bash
 # DO NOT CHANGE THE BELOW IN README / UPDATE IN .env
-ID=AKIA**WFJ2CZE6ZK***W
-KEY=**oaQLSjCazvhiKh0G7q2uAite05EVUhVYoeU***
+ID=AKIA**WFJ2CZM6Z6****
+KEY=**DlOVYg15XLR869/A48Q+yvTQPeIrXJzuLb****
 ECHIOS_KEY=
 ```
 
