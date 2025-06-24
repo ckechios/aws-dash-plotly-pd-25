@@ -6,9 +6,10 @@ Create a .env file. Do not publish they .env or these keys
 
 ```bash
 # DO NOT CHANGE THE BELOW IN README / UPDATE IN .env
-ID=AKIA**WFJ2CZM6Z6****
-KEY=**DlOVYg15XLR869/A48Q+yvTQPeIrXJzuLb****
-ECHIOS_KEY=
+# Uing bhabu key
+ID=AKIA**WFJ2CZDK****NY
+KEY=***m3NZoBPEUAUm/K5lxehCZBZWUJT2DAfbX****
+ECHIOS_KEY=OCC
 ```
 
 - Source For data
